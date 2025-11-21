@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "sender": "hr@gmail.com.com",
+    "subject": "Interview Schedule for Data Engineer Role",
+    "timestamp": "2025-11-20T10:30:00",
+    "body": "Hi,\nWe would like to schedule an interview with you on Monday at 3 PM. Please confirm your availability.\nRegards,\nHR Team"
+  },
+  {
+    "id": 2,
+    "sender": "newsletter@techdaily.in",
+    "subject": "TechDaily Weekly Newsletter",
+    "timestamp": "2025-11-19T08:00:00",
+    "body": "Welcome to this week's edition of TechDaily. In this issue, we cover AI trends, cloud updates, and more."
+  },
+  {
+    "id": 3,
+    "sender": "noreply@randomspam.in",
+    "subject": "You won a million dollars!!!",
+    "timestamp": "2025-11-18T15:20:00",
+    "body": "Click this suspicious link to claim your prize immediately."
+  },
+  {
+    "id": 4,
+    "sender": "manager@zoho.com",
+    "subject": "Action required: Project status update",
+    "timestamp": "2025-11-17T11:45:00",
+    "body": "Hi,\nPlease share the current status of the data pipeline project by EOD tomorrow.\nThanks,\nManager"
+  },
+  {
+    "id": 5,
+    "sender": "suresh@gmail.com.com",
+    "subject": "Meeting agenda for tomorrow",
+    "timestamp": "2025-11-17T09:15:00",
+    "body": "Hey,\nCan we finalize the agenda for tomorrow's client call? I suggest we cover progress, blockers, and next steps.\nLet me know your thoughts.\nRegards,\nColleague"
+  },
+  {
+    "id": 6,
+    "sender": "events@vit.edu",
+    "subject": "AI/ML Workshop – Registration Open",
+    "timestamp": "2025-11-16T14:10:00",
+    "body": "Dear Student,\nRegistrations are now open for the upcoming AI/ML workshop. Please complete the registration form by Friday if you wish to attend."
+  },
+  {
+    "id": 7,
+    "sender": "it-support@asl.com",
+    "subject": "Password Expiry Notification",
+    "timestamp": "2025-11-15T07:30:00",
+    "body": "Your account password will expire in 3 days. Please change your password to avoid login issues."
+  },
+  {
+    "id": 8,
+    "sender": "client@ms.com",
+    "subject": "Request for data report",
+    "timestamp": "2025-11-14T16:00:00",
+    "body": "Hi,\nCould you please share the usage report for October by this Friday?\nRegards,\nClient"
+  },
+  {
+    "id": 9,
+    "sender": "spam@cheapoffers.com",
+    "subject": "Buy 1 Get 3 FREE!!!",
+    "timestamp": "2025-11-13T18:25:00",
+    "body": "Limited-time offer on random products you never asked for."
+  },
+  {
+    "id": 10,
+    "sender": "teamlead@google.com",
+    "subject": "Sprint Planning Meeting",
+    "timestamp": "2025-11-12T10:00:00",
+    "body": "Hi,\nWe will have a sprint planning meeting tomorrow at 10 AM. Please come prepared with your task estimates.\nThanks,\nTeam Lead"
+  }
+]

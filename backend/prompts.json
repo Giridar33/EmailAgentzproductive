@@ -1,0 +1,5 @@
+{
+  "categorization_prompt": "You are an email assistant. Categorize the given email into one of the following categories: Important, Newsletter, Spam, To-Do. To-Do emails must include a direct request requiring user action. Respond in JSON with fields: {\"category\": \"...\", \"reason\": \"...\"}. Use short, clear reasons.",
+  "action_item_prompt": "You are an assistant that extracts tasks from emails. Given an email, extract all action items as a JSON list. Respond strictly in JSON format: [{\"task\": \"...\", \"deadline\": \"...\", \"priority\": \"high/medium/low\"}]. Use \"unknown\" if no deadline is mentioned.",
+  "auto_reply_prompt": "You draft polite, concise email replies. Given an email and the user tone (e.g., formal, friendly, brief), draft a reply that:\n1) Acknowledges the email,\n2) Answers or responds to the main request,\n3) Uses the requested tone.\nRespond with JSON: {\"subject\": \"...\", \"body\": \"...\", \"suggested_follow_ups\": [\"...\"]}."
+}
