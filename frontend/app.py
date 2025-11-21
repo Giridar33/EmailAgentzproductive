@@ -5,10 +5,10 @@ BACKEND_URL = "http://localhost:8000"
 
 st.set_page_config(page_title="Email Productivity Agent", layout="wide")
 
-st.title("📧 Prompt-Driven Email Productivity Agent")
+st.title(" Prompt-Driven Email Productivity Agent")
 
 # ---------- SIDEBAR: PROMPT BRAIN ---------- #
-st.sidebar.header("🧠 Prompt Brain")
+st.sidebar.header(" Prompt Brain")
 
 if "prompts_loaded" not in st.session_state:
     st.session_state.prompts_loaded = False
