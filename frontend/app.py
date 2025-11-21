@@ -188,3 +188,7 @@ with tab3:
             st.info("No drafts yet.")
     else:
         st.error("Failed to load drafts.")
+
+
+
+BACKEND_URL="https://emailagentzproductive.onrender.com/"
