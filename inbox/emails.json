@@ -25,7 +25,7 @@
     "sender": "manager@zoho.com",
     "subject": "Action required: Project status update",
     "timestamp": "2025-11-17T11:45:00",
-    "body": "Hi,\nPlease share the current status of the data pipeline project by EOD tomorrow.\nThanks,\nManager"
+    "body": "Hi,\nPlease share the current status of the data pipeline project immediately.\nThanks,\nManager"
   },
   {
     "id": 5,
